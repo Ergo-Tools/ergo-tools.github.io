@@ -1,10 +1,10 @@
 # Ergo-Tools
-Accelerometry other software tools related to physical activity and energy expenditure, sedentary behaviour, vibration exposure and in general ergonomics'
+Ergo-Tools is a collection of software tools related to physical activity and sedentary behaviour, vibration exposure, physical load and in general ergonomics.
 
 ## [ActiPASS](https://user-images.githubusercontent.com/26480941/170997299-6eda1630-b788-41fc-b83d-005bb2e96335.PNG)
 
 ActiPASS is a thigh-worn accelerometer data processing tool to find physical and sedentary behaviour.
-![ActiPASS](https://user-images.githubusercontent.com/26480941/170669286-19ad73a9-df25-4903-ad07-29746b6ca0c8.PNG)
+![ActiPASS](https://user-images.githubusercontent.com/26480941/170997299-6eda1630-b788-41fc-b83d-005bb2e96335.PNG)
 
 ## [WBV Calculator](https://ergo-tools.github.io/WBV_Calculator/)
 
